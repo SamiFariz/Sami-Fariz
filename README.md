@@ -6,6 +6,7 @@ I've loved computers and video games ever since I was a kid. I am a motivated co
 🚧 Projects
 
 Currently working on a responsive web application that includes the following: 
+
 Prayer Times
 
 Displays the five daily prayer times (Fajr, Dhuhr, Asr, Maghrib, and Isha)
