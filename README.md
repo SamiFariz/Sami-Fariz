@@ -3,6 +3,7 @@
 I've loved computers and video games ever since I was a kid. I am a motivated computer science student at the University of Illinois Chicago with a strong foundation in programming, data structures, and algorithm design. Experienced in C, C++, and Python, with hands-on proficiency in debugging, system profiling, and memory management. Skilled in collaborative software development, problem-solving, and producing efficient, scalable code. Passionate about leveraging technology to build innovative solutions, with coursework and projects spanning linked data structures, file handling, and graph algorithms.
 
 🚧 Projects
+
 Currently working on a responsive web application that includes the following: 
 Prayer Times
 
